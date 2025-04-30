@@ -1,0 +1,63 @@
+
+GPA Report
+Name: Michael Onwuachi
+Student ID: 10211100292
+ - Linear Algebra: B (3 hrs)
+GPA: 3.00
+
+
+🎓 GPA Report
+Name: Daniel Osas
+Student ID: 10211100352
+ - Project Management: C+ (3 hrs)
+GPA: 2.50
+
+
+🎓 GPA Report
+Name: Fred Mensah
+Student ID: 10211100689
+ - Probability and Statistics: D (4 hrs)
+GPA: 1.00
+
+
+🎓 GPA Report
+Name: John Mahama
+Student ID: 1021110345
+ - Calculus 1: A (3 hrs)
+GPA: 4.00
+
+
+🎓 GPA Report
+Name: Alex Martin
+Student ID: 10211100262
+ - Physics: B (3 hrs)
+GPA: 3.00
+
+
+🎓 GPA Report
+Name: Owen Natsu
+Student ID: 10211100444
+ - Machine Learning: C (3 hrs)
+GPA: 2.00
+
+
+🎓 GPA Report
+Name: Johnson Mark
+Student ID: 10211100921
+ - Computer Networks: F (3 hrs)
+GPA: 0.00
+
+
+🎓 GPA Report
+Name: KING ARUTHUR
+Student ID: 10211100231
+ - Artificial Intelligence: C (3 hrs)
+GPA: 2.00
+
+
+🎓 GPA Report
+Name: Michael Onwuachi
+Student ID: 10211100292
+ - Java: B+ (3 hrs)
+GPA: 3.50
+
